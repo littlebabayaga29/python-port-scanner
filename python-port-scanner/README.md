@@ -7,7 +7,6 @@ A TCP port scanner built from scratch in Python using the built-in socket librar
 - Quick and robust scan modes
 - Live status output for open, closed, and timed-out ports
 - Input validation and hostname resolution
-- Scan results summary
 
 ### Requirements
 - Python 3
